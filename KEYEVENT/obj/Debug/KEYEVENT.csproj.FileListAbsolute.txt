@@ -1,0 +1,10 @@
+C:\Users\DRONE003\source\repos\KEYEVENT\KEYEVENT\bin\Debug\KEYEVENT.exe.config
+C:\Users\DRONE003\source\repos\KEYEVENT\KEYEVENT\bin\Debug\KEYEVENT.exe
+C:\Users\DRONE003\source\repos\KEYEVENT\KEYEVENT\bin\Debug\KEYEVENT.pdb
+C:\Users\DRONE003\source\repos\KEYEVENT\KEYEVENT\obj\Debug\KEYEVENT.csprojAssemblyReference.cache
+C:\Users\DRONE003\source\repos\KEYEVENT\KEYEVENT\obj\Debug\KEYEVENT.Form1.resources
+C:\Users\DRONE003\source\repos\KEYEVENT\KEYEVENT\obj\Debug\KEYEVENT.Properties.Resources.resources
+C:\Users\DRONE003\source\repos\KEYEVENT\KEYEVENT\obj\Debug\KEYEVENT.csproj.GenerateResource.cache
+C:\Users\DRONE003\source\repos\KEYEVENT\KEYEVENT\obj\Debug\KEYEVENT.csproj.CoreCompileInputs.cache
+C:\Users\DRONE003\source\repos\KEYEVENT\KEYEVENT\obj\Debug\KEYEVENT.exe
+C:\Users\DRONE003\source\repos\KEYEVENT\KEYEVENT\obj\Debug\KEYEVENT.pdb
